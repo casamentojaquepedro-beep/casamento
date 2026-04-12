@@ -35,7 +35,7 @@ const historyItems = [
     description: 'Em um Airbnb na praia, tudo foi preparado com muito carinho para aquele momento. Entre pétalas, uma noite especial e tudo do jeitinho que a gente gosta, vivemos um capítulo inesquecível da nossa história. E ali, de forma simples e cheia de significado, veio o tão esperado sim. 💍🌊',
     media: {
       type: 'video',
-      src: 'https://www.youtube.com/watch?v=bN63D6nk8Ik', // ID do vídeo do YouTube
+      src: 'https://youtu.be/bN63D6nk8Ik?si=WtVhtGEfQ0stkoJV', // ID do vídeo do YouTube
       alt: 'Vídeo do pedido de casamento'
     }
   },
