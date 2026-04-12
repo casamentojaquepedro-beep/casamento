@@ -35,8 +35,8 @@ const historyItems = [
     description: 'Em um Airbnb na praia, tudo foi preparado com muito carinho para aquele momento. Entre pétalas, uma noite especial e tudo do jeitinho que a gente gosta, vivemos um capítulo inesquecível da nossa história. E ali, de forma simples e cheia de significado, veio o tão esperado sim. 💍🌊',
     media: {
       type: 'video',
-      src: 'https://www.youtube.com/embed/bN63D6nk8Ik?si=P33uqLdjzyPqpNVT', // ID do vídeo do YouTube
-      alt: 'Vídeo do pedido de casamento'
+      src: 'assets/historia-3.jpg',
+      alt: 'Jaque e Pedro no Pedido de Casamento'
     }
   },
   {
@@ -44,8 +44,8 @@ const historyItems = [
     title: 'Nosso Grande Dia',
     description: 'E o grande dia está chegando e estamos muito ansiosos para aproveitar cada momento. Estamos preparando cada detalhe com muito carinho, para refletir como sempre foi nossa relação.',
     media: {
-      type: 'image',
-      src: 'assets/historia-3.jpg',
+      type: 'video',
+      src: 'https://www.youtube.com/embed/bN63D6nk8Ik?si=P33uqLdjzyPqpNVT', // ID do vídeo do YouTube
       alt: 'Jaque e Pedro Esperam seu Grande Dia'
     }
   }
