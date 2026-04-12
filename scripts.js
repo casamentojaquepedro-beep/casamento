@@ -10,29 +10,29 @@ const EVENT_DATE = new Date('2026-11-21T17:00:00'); // Formato: AAAA-MM-DDTHH:MM
 // CONTEÚDO DA SEÇÃO "NOSSA HISTÓRIA" - INSTRUÇÃO: Adicione/remova itens conforme necessário
 const historyItems = [
   {
-    date: 'Junho 2018',
-    title: 'Nosso Primeiro Encontro',
-    description: 'Nos conhecemos durante uma conferência de trabalho em São Paulo. Foi amor à primeira vista!',
+    date: 'Julho 2023',
+    title: 'Nossa primeira viagem juntos',
+    description: 'Nossa primeira viagem para Itanhaém foi simples, mas inesquecível. Entre o som do mar e paisagens. Foi ali que começou ainda mais a nossa história. 💕',
     media: {
       type: 'image', // 'image' ou 'video'
       src: 'assets/historia-1.jpg', // Caminho da imagem
-      alt: 'Maria e João em seu primeiro encontro' // Texto alternativo para acessibilidade
+      alt: 'Jaque e Pedro em sua Primeira Viagem' // Texto alternativo para acessibilidade
     }
   },
   {
-    date: 'Dezembro 2020',
-    title: 'Primeira Viagem Juntos',
-    description: 'Passamos o Réveillon em uma praia paradisíaca. Foi quando soubemos que queríamos passar nossas vidas juntos.',
+    date: 'Fevereiro 2024',
+    title: 'Nosso pedido de namoro',
+    description: 'Foi um momento cheio de significado. Em um cenário preparado com carinho, entre flores, detalhes delicados e gestos de amor, começamos oficialmente a nossa história. Ali, em meio a tudo que foi pensado com tanto cuidado, tivemos a certeza de que queríamos seguir juntos. 💛',
     media: {
       type: 'image',
       src: 'assets/historia-2.jpg',
-      alt: 'Maria e João na praia durante o Réveillon'
+      alt: 'Jaque e Pedro em seu Pedido de Namoro'
     }
   },
   {
-    date: 'Março 2023',
-    title: 'O Pedido',
-    description: 'João pediu Maria em casamento durante um pôr do sol inesquecível na Praia do Rosa.',
+    date: 'Fevereiro 2026',
+    title: 'Pedido de Casamento',
+    description: 'Em um Airbnb na praia, tudo foi preparado com muito carinho para aquele momento. Entre pétalas, uma noite especial e tudo do jeitinho que a gente gosta, vivemos um capítulo inesquecível da nossa história. E ali, de forma simples e cheia de significado, veio o tão esperado sim. 💍🌊',
     media: {
       type: 'video',
       src: 'https://www.youtube.com/embed/VIDEO_ID', // ID do vídeo do YouTube
@@ -42,11 +42,11 @@ const historyItems = [
   {
     date: 'Novembro 2026',
     title: 'Nosso Grande Dia',
-    description: 'Estamos ansiosos para compartilhar este momento especial com todos que amamos!',
+    description: 'E o grande dia está chegando e estamos muito ansiosos para aproveitar cada momento. Estamos preparando cada detalhe com muito carinho, para refletir como sempre foi nossa relação.',
     media: {
       type: 'image',
       src: 'assets/historia-3.jpg',
-      alt: 'Maria e João no dia do casamento'
+      alt: 'Jaque e Pedro Esperam seu Grande Dia'
     }
   }
 ];
