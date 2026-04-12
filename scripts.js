@@ -34,7 +34,7 @@ const historyItems = [
     title: 'Pedido de Casamento',
     description: 'Em um Airbnb na praia, tudo foi preparado com muito carinho para aquele momento. Entre pétalas, uma noite especial e tudo do jeitinho que a gente gosta, vivemos um capítulo inesquecível da nossa história. E ali, de forma simples e cheia de significado, veio o tão esperado sim. 💍🌊',
     media: {
-      type: 'video',
+      type: 'image',
       src: 'assets/historia-3.jpg',
       alt: 'Jaque e Pedro no Pedido de Casamento'
     }
