@@ -12,7 +12,7 @@ const historyItems = [
   {
     date: 'Julho 2023',
     title: 'Nossa primeira viagem juntos',
-    description: 'Nossa primeira viagem para Itanhaém foi simples, mas inesquecível. Entre o som do mar e paisagens. Foi ali que começou ainda mais a nossa história. 💕',
+    description: 'Foi para Itanhaém, uma viagem simples, mas muito divertida; e nos aproximamos muito nessa viagem.',
     media: {
       type: 'image', // 'image' ou 'video'
       src: 'assets/historia-1.jpg', // Caminho da imagem
@@ -22,7 +22,7 @@ const historyItems = [
   {
     date: 'Fevereiro 2024',
     title: 'Nosso pedido de namoro',
-    description: 'Foi um momento cheio de significado. Em um cenário preparado com carinho, entre flores, detalhes delicados e gestos de amor, começamos oficialmente a nossa história. Ali, em meio a tudo que foi pensado com tanto cuidado, tivemos a certeza de que queríamos seguir juntos. 💛',
+    description: 'Foi um dia muito especial, onde oficializamos nossa relação e já tínhamos certeza que iríamos ficar juntos.',
     media: {
       type: 'image',
       src: 'assets/historia-2.jpg',
@@ -32,7 +32,7 @@ const historyItems = [
   {
     date: 'Fevereiro 2026',
     title: 'Pedido de Casamento',
-    description: 'Em um Airbnb na praia, tudo foi preparado com muito carinho para aquele momento. Entre pétalas, uma noite especial e tudo do jeitinho que a gente gosta, vivemos um capítulo inesquecível da nossa história. E ali, de forma simples e cheia de significado, veio o tão esperado sim. 💍🌊',
+    description: 'Cerca de dois anos depois do pedido de namoro e já sabendo que iríamos nos casar (já estavamos planejando varias coisas kkk) veio o grande pedido.',
     media: {
       type: 'image',
       src: 'assets/historia-3.jpg',
