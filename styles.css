@@ -385,7 +385,7 @@ a {
     linear-gradient(135deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 100%),
     url('assets/bg-casal.jpg');
   background-size: cover;
-  background-position: center;
+  background-position: left center;
   background-attachment: fixed;
   background-blend-mode: overlay;
 }
