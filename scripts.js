@@ -248,7 +248,7 @@ function initHistorySection() {
 }
 
 // CONFIRMAÇÃO DE PRESENÇA - VERSÃO CORRIGIDA
-const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycby2LzxVKM3h2NFw3Dg1QO8XSNvYbZqQBfyd-cxPrqhlZFO29hsgpf3p1AuSTqDhQ894Zg/exec';
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxdZiv8XlGjLUJDeB0lrGgd_2idZWAIk9niWsCpFktsMXUcPEk_4QtKvyeYvrjJamq7qg/exec';
 
 class ConfirmacaoPresenca {
   constructor() {
