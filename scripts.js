@@ -5,7 +5,7 @@
 // =========================================
 
 // DATA DO CASAMENTO - INSTRUÇÃO: Altere para a data do seu evento
-const EVENT_DATE = new Date('2026-11-21T17:00:00'); // Formato: AAAA-MM-DDTHH:MM:SS
+const EVENT_DATE = new Date('2026-11-21T18:00:00'); // Formato: AAAA-MM-DDTHH:MM:SS
 
 // CONTEÚDO DA SEÇÃO "NOSSA HISTÓRIA" - INSTRUÇÃO: Adicione/remova itens conforme necessário
 const historyItems = [
@@ -248,7 +248,7 @@ function initHistorySection() {
 }
 
 // CONFIRMAÇÃO DE PRESENÇA - VERSÃO CORRIGIDA
-const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxxatq3j29H-b5SbK5eUG34Q_1s-Ts09rb4SIZYZEgqD82TwGsc0C_--DmB0l1UYHSMiw/exec';
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycby2LzxVKM3h2NFw3Dg1QO8XSNvYbZqQBfyd-cxPrqhlZFO29hsgpf3p1AuSTqDhQ894Zg/exec';
 
 class ConfirmacaoPresenca {
   constructor() {
